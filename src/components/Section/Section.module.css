@@ -20,6 +20,7 @@
   border-radius: 20px;
 }
 .ALL:hover{
+    box-shadow: 42px 42px 10px 10px rgba(0, 0, 255, .2);
     border:3px solid lightgray;
 }
 
